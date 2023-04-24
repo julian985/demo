@@ -16,7 +16,7 @@ Java
 Spring Boot  
 Spring MVC  
 Spring Security  
-JWT (JSON Web Tokens) for token validation  
+JWT (JSON Web Tokens) for token validation   
 JPA (Java Persistence API) for data persistence  
 
 **Login**
