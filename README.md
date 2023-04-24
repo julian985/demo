@@ -9,7 +9,8 @@ Basic security configuration using Spring Security
 In-memory authentication with a password encoder
 Login page configuration and endpoint access control
 User entity with basic fields like id, name, password, and birth
-RESTful API endpoints for user management (login, update, get, getAll, and delete)
+RESTful API endpoints for user management (login, update, get, getAll, and delete)  
+
 **Technologies**  
 Java
 Spring Boot
