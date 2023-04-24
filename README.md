@@ -18,7 +18,7 @@ Spring MVC
 Spring Security
 JWT (JSON Web Tokens) for token validation
 JPA (Java Persistence API) for data persistence
-
+---
 **Login**
 
 ![login](https://user-images.githubusercontent.com/127776981/234065511-470596d5-74a5-4ec8-9bd5-083d65476097.png)
