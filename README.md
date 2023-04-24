@@ -1,15 +1,16 @@
 # demo
-**My Web Application**
+**My Web Application**  
+
 This repository contains a Java-based web application with a custom interceptor, a basic security configuration for authentication and authorization, and a simple User entity with a set of RESTful API endpoints for managing users.
 
-**Features**
+**Features**  
 Custom interceptor implementation for token validation
 Basic security configuration using Spring Security
 In-memory authentication with a password encoder
 Login page configuration and endpoint access control
 User entity with basic fields like id, name, password, and birth
 RESTful API endpoints for user management (login, update, get, getAll, and delete)
-**Technologies**
+**Technologies**  
 Java
 Spring Boot
 Spring MVC
