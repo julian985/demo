@@ -30,7 +30,7 @@ public class UserService implements UserDetailsService {
         // 登陆 检测
         UserDetails userDetails = loadUserByUsername(username);
         if (null == userDetails || !StrUtil.equals(password, userDetails.getPassword())) {
-            return new Response("用户名或密码不正确!", null);
+            return new Response("Wrong passowrd!", null);
         }
         UsernamePasswordAuthenticationToken authenticationToken = new
                 UsernamePasswordAuthenticationToken(userDetails,
